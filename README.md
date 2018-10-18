@@ -6,4 +6,4 @@ My first attempt at HTML and CSS.
 
 I also used it to practice my Git and Vim skills.
 
-Check it out [here](https://himym.netlify.com)
+Check it out [here](https://himym.netlify.com).
