@@ -1,7 +1,19 @@
 @font-face {
-	font-family: font-awesome;
-	src: url('../fonts/fa-solid-900.woff') format('woff');
+    font-family: font-awesome;
+    src: url('../fonts/fa-solid-900.woff') format('woff');
 }
+
+@keyframes point {
+    from {top: 0;}
+    to {top: -10px;}
+}
+
+.up:hover {
+    position: relative;
+    /*top: -5px;*/
+    /*animation: point 0.3s linear 0s infinite alternate;*/
+}
+
 
 article {
     padding: 1em;
